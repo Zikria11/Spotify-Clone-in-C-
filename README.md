@@ -55,13 +55,10 @@ g++ main.cpp -o spotify-clone -lraylib -lm -ldl -lpthread -lGL -lX11
 ./spotify-clone
 ```
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
 
-🙌 Acknowledgments
-
-raylib
- by raysan5
-
-Inspired by the UI of Spotify
+## 🙌 Acknowledgments
+- raylib by raysan5
+- Inspired by the UI of Spotify
